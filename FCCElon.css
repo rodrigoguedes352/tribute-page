@@ -1,0 +1,33 @@
+#main {
+  font: inter;
+  font-size: 15px;
+  text-align: center;
+  background: lightgray;
+}
+#title {
+ background: rgb(189, 195, 199);
+ padding: 40px;
+ font: roboto; 
+ font-size: 55px;
+ text-align: center;
+ color: teal;
+ line-height: 10px;
+}
+img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+#img-caption {
+  font-size: 18px;
+}
+#tribute-info {
+  font-size: 26px;
+}
+li {
+  margin: 10px;
+}
+#link {
+  font-size: 17px;
+  margin: 23px;
+}
