@@ -1,5 +1,5 @@
 #main {
-  font: inter;
+  font-family: 'Inter', sans-serif;
   font-size: 15px;
   text-align: center;
   background: lightgray;
@@ -7,7 +7,7 @@
 #title {
  background: rgb(189, 195, 199);
  padding: 40px;
- font: roboto; 
+ font-family: 'Roboto', sans-serif;
  font-size: 55px;
  text-align: center;
  color: teal;
